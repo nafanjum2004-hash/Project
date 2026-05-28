@@ -14,5 +14,5 @@ def lambda_handler(event, context):
 
     return {
         'statusCode': 200,
-        'body': 'EC2 details fetched successfully'
+        'body': 'Deploy Succesfully'
     }
