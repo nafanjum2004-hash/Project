@@ -1,4 +1,4 @@
-from modules.ec2.ec2_info import get_ec2_details
+from modules.ec2.ec2 import get_ec2_details
 
 def lambda_handler(event, context):
 
